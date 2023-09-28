@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.25"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Minimum_Time_to_Type_Word_Using_Special_Typewriter",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Minimum_Time_to_Type_Word_Using_Special_Typewriter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Minimum_Time_to_Type_Word_Using_Special_Typewriter-Debug-f8c55f655621a580e9d7.json",
+					"name" : "Minimum_Time_to_Type_Word_Using_Special_Typewriter",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/yukhn/CLionProjects/Minimum Time to Type Word Using Special Typewriter/cmake-build-debug",
+		"source" : "C:/Users/yukhn/CLionProjects/Minimum Time to Type Word Using Special Typewriter"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 4
+	}
+}

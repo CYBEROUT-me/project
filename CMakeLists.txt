@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.25)
+project(Minimum_Time_to_Type_Word_Using_Special_Typewriter)
+
+set(CMAKE_CXX_STANDARD 17)
+
+add_executable(Minimum_Time_to_Type_Word_Using_Special_Typewriter main.cpp)
